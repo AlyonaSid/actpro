@@ -1,5 +1,5 @@
 Description
 Precondition
 Steps
-POsrcondition
+Postcondition
 end
